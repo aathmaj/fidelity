@@ -10,3 +10,25 @@ This is my journal of the design and building process of **Fidelity**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/68).
 
 
+## 10/3/2025 - Started initial research  
+
+![banner #4 (3).png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTgzLCJwdXIiOiJibG9iX2lkIn19--555bd2ab78b6f4994167c7c5cf9cae29af0c1a1e/banner%20%234%20(3).png)
+
+This took wayyy too much time.....
+
+Completed phase 1 of research on how to make the hardware. I decided on a custom pcb combined with a raspberry pi pico W. The main modules on the project will be:
+
+**MODULE A**
+
+COMPONENT 1: USB-C Connector
+COMPONENT 2: Charger IC and LDO Regulator (regulate voltage) 
+COMPONENT 3: Raspberry Pi Pico W (all processing)
+
+**MODULE B**
+
+COMPONENT 1: I2S (digital to analog)
+COMPONENT 2: SD Card Reader
+
+COMPONENT 3: TFT Display
+COMPONENT 4: Buttons and encoders  
+
